@@ -11,7 +11,7 @@ Automat==0.7.0
 bcrypt==3.1.4
 billiard==3.5.0.4
 celery==4.2.1
-certifi==2018.8.24
+certifi==2023.7.22
 cffi==1.11.5
 channels==2.1.1
 channels-redis==2.2.1
@@ -27,7 +27,7 @@ django-celery-beat==1.1.1
 django-cors-headers==2.4.0
 django-filter==1.1.0
 django-mysql==2.4.1
-djangorestframework==3.8.2
+djangorestframework==3.15.2
 djangorestframework-jwt==1.11.0
 dnspython==1.15.0
 docopt==0.6.2
@@ -35,7 +35,7 @@ ecdsa==0.13
 future==0.17.1
 hiredis==0.2.0
 hyperlink==18.0.0
-idna==2.7
+idna==3.7
 incremental==17.5.0
 itsdangerous==0.24
 itypes==1.1.0
@@ -66,13 +66,13 @@ qingcloud-sdk==1.2
 qiniu==7.2.2
 qrcode==6.0
 redis==2.10.6
-requests==2.19.1
+requests==2.32.2
 six==1.11.0
 sshpubkeys==3.1.0
 Twisted==18.7.0
 txaio==18.8.1
 uritemplate==3.0.0
-urllib3==1.23
+urllib3==1.26.19
 vine==1.1.4
 wcwidth==0.1.7
 zope.interface==4.5.0

@@ -76,3 +76,4 @@ urllib3==1.23
 vine==1.1.4
 wcwidth==0.1.7
 zope.interface==4.5.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability

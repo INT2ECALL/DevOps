@@ -21,7 +21,7 @@ coreapi==2.3.3
 coreschema==0.0.4
 cryptography==2.3.1
 daphne==2.1.1
-Django==2.0.5
+Django==4.2.20
 django-auth-ldap==1.7.0
 django-celery-beat==1.1.1
 django-cors-headers==2.4.0
@@ -39,7 +39,7 @@ idna==2.7
 incremental==17.5.0
 itsdangerous==0.24
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==3.1.6
 kombu==4.2.1
 MarkupSafe==1.0
 msgpack==0.5.6
